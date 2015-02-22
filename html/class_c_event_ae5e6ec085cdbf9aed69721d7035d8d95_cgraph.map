@@ -1,0 +1,26 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_c_event.html#a2a670dfbc506ba80d299d3761a2c08e0" title="CEvent::OnMouseFocus" alt="" coords="188,5,353,35"/>
+<area shape="rect" id="node5" href="$class_c_event.html#ad82baf2bc2458e1bdd9bca96ff5ce206" title="CEvent::OnMouseBlur" alt="" coords="195,59,347,88"/>
+<area shape="rect" id="node7" href="$class_c_event.html#ab1d140f2e47614f135ad5cb33f01d702" title="CEvent::OnInputFocus" alt="" coords="193,112,348,141"/>
+<area shape="rect" id="node9" href="$class_c_event.html#acc432a3258e53e701e999b8f2cdca319" title="CEvent::OnInputBlur" alt="" coords="200,165,341,195"/>
+<area shape="rect" id="node11" href="$class_c_event.html#a27ec9f128f5c91992ef8833b845e7ffd" title="CEvent::OnRestore" alt="" coords="203,219,339,248"/>
+<area shape="rect" id="node13" href="$class_c_event.html#a756f8ab86406ef493147e44aacd7394d" title="CEvent::OnMinimize" alt="" coords="200,272,341,301"/>
+<area shape="rect" id="node15" href="$class_c_event.html#af6e79f696d50029e8dee9231936e4091" title="CEvent::OnKeyDown" alt="" coords="197,325,344,355"/>
+<area shape="rect" id="node17" href="$class_c_event.html#a303e3c5bdefff4d30179daaa3b5de398" title="CEvent::OnKeyUp" alt="" coords="205,379,336,408"/>
+<area shape="rect" id="node19" href="$class_c_event.html#a329b2e59bee97a710c80de766375c822" title="CEvent::OnMouseMove" alt="" coords="189,432,352,461"/>
+<area shape="rect" id="node21" href="$class_c_event.html#a5b0a57ee34bf094b65c36599ff0e76f4" title="CEvent::OnLButtonDown" alt="" coords="185,485,356,515"/>
+<area shape="rect" id="node23" href="$class_c_event.html#ac37feee972e36fca30078eae9b4b5d93" title="CEvent::OnRButtonDown" alt="" coords="184,539,357,568"/>
+<area shape="rect" id="node25" href="$class_c_event.html#a0f0928c9939a54509c7cd08941df5011" title="CEvent::OnMButtonDown" alt="" coords="184,592,357,621"/>
+<area shape="rect" id="node27" href="$class_c_event.html#af3a232256ef481a4235c398c03198fcb" title="CEvent::OnLButtonUp" alt="" coords="195,645,347,675"/>
+<area shape="rect" id="node29" href="$class_c_event.html#a39297cf27ad06914fcaf954eabc56ae4" title="CEvent::OnRButtonUp" alt="" coords="193,699,348,728"/>
+<area shape="rect" id="node31" href="$class_c_event.html#aa365192b85445b730fe77ed6f49c0e18" title="CEvent::OnMButtonUp" alt="" coords="192,752,349,781"/>
+<area shape="rect" id="node33" href="$class_c_event.html#af6657008ec589321f8ac2371bdcbe29d" title="CEvent::OnJoyAxis" alt="" coords="201,805,340,835"/>
+<area shape="rect" id="node35" href="$class_c_event.html#a8fd7b753280f06992bf7bf8e9af7e6fa" title="CEvent::OnJoyBall" alt="" coords="204,859,337,888"/>
+<area shape="rect" id="node37" href="$class_c_event.html#af5bea5001dad37349b1bdf0a33bd946e" title="CEvent::OnJoyHat" alt="" coords="204,912,337,941"/>
+<area shape="rect" id="node39" href="$class_c_event.html#a76891a61b5d91b26e96f0f763cad3e55" title="CEvent::OnJoyButtonDown" alt="" coords="179,965,363,995"/>
+<area shape="rect" id="node41" href="$class_c_event.html#a5aad98bf90e7d40670094e368461b69d" title="CEvent::OnJoyButtonUp" alt="" coords="188,1019,353,1048"/>
+<area shape="rect" id="node43" href="$class_c_event.html#a40d60aa21387436077575bb66bab50cb" title="CEvent::OnExit" alt="" coords="213,1072,328,1101"/>
+<area shape="rect" id="node45" href="$class_c_event.html#aed8ab0fbf78f0cf5c521edc7c02046c6" title="CEvent::OnResize" alt="" coords="205,1125,336,1155"/>
+<area shape="rect" id="node47" href="$class_c_event.html#a555170e4942bec9b3e48cb7c6ca3ba48" title="CEvent::OnExpose" alt="" coords="204,1179,337,1208"/>
+<area shape="rect" id="node49" href="$class_c_event.html#a1d524a8d3ed8141be27c69f31b0cf99a" title="CEvent::OnUser" alt="" coords="212,1232,329,1261"/>
+</map>

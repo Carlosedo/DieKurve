@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_s_d_l___base.html#af7bb1e06cf4f351356e48c73537d54cc" title="OnInit: initialices the game, surfaces and powerups. Also handles the game loading." alt="" coords="229,5,357,35"/>
+<area shape="rect" id="node7" href="$class_s_d_l___base.html#af6cd9e9da262551cee67bd28d97449df" title="OnEvent: checks for events and passes them to the appropriate handler." alt="" coords="221,59,365,88"/>
+<area shape="rect" id="node9" href="$class_s_d_l___base.html#a8190cf29a54404441e2e740b9ceeb2e1" title="OnLoop: calls the functions and takes the actions of every loop of the game: fps, movement..." alt="" coords="224,112,363,141"/>
+<area shape="rect" id="node27" href="$class_s_d_l___base.html#aed4d5b8bbeb8db6c9717aba34e6a00f7" title="OnRender: draws the surfaces on every loop of the game." alt="" coords="217,165,369,195"/>
+<area shape="rect" id="node33" href="$class_s_d_l___base.html#abfcddd54d3475eff338cf53328cfff5b" title="OnCleanup: cleans and frees the used memory." alt="" coords="215,219,372,248"/>
+<area shape="rect" id="node5" href="$class_powerups.html#a12fc5a4e945c40392eccf93716ed9097" title="OnCreate: loads and draws a powerup in the destination surface." alt="" coords="428,5,572,35"/>
+<area shape="rect" id="node11" href="$class_f_p_s.html#acfd11dfd1bf51f4ce730414d8658c2c8" title="FPS::OnLoop" alt="" coords="449,59,551,88"/>
+<area shape="rect" id="node13" href="$class_player.html#ad745d25801b142420450790bf4548b48" title="OnMove: moves the player and calls the function to check for collisions." alt="" coords="443,112,557,141"/>
+<area shape="rect" id="node15" href="$class_f_p_s.html#ab1588edfbc51a46ad459b3884d744fe5" title="FPS::GetSpeedFactor" alt="" coords="628,85,777,115"/>
+<area shape="rect" id="node17" href="$class_player.html#a39bc1e0bc6211b527e69fdf153348429" title="Player::collisions" alt="" coords="643,139,763,168"/>
+<area shape="rect" id="node19" href="$class_world.html#a7a520cd509ef956967be998f1e4da4cc" title="addToPathMap: adds the player&#39;s coordinates to the pathmap and checks if a player passed over them..." alt="" coords="827,85,979,115"/>
+<area shape="rect" id="node23" href="$class_player.html#a36c6183aed3ce0ccd97ba7ab770f22c2" title="CheckWalls: checks for a collision with the walls." alt="" coords="833,139,972,168"/>
+<area shape="rect" id="node25" href="$class_world.html#ab43f695557482201a33232bd2daa341e" title="riseScore: increases the alive players&#39; score when a player dies and decreases the alive count..." alt="" coords="844,192,961,221"/>
+<area shape="rect" id="node21" href="$class_player.html#aaea13cbf808d956ab07533a9c731c4b7" title="killPlayer: sets the alive variable to false." alt="" coords="1027,85,1147,115"/>
+<area shape="rect" id="node29" href="$class_s_d_l___base.html#abd3cdce2581ff9462623f82ddb399fd8" title="SDL_Base::Rendertext" alt="" coords="421,165,579,195"/>
+<area shape="rect" id="node31" href="$class_player.html#abe2be1e2853daa799ff87c8d098eb740" title="OnDraw: draws the player&#39;s surface on the game." alt="" coords="443,219,557,248"/>
+</map>

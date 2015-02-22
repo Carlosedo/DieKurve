@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_s_d_l___base.html#af7bb1e06cf4f351356e48c73537d54cc" title="OnInit: initialices the game, surfaces and powerups. Also handles the game loading." alt="" coords="197,32,325,61"/>
+<area shape="rect" id="node5" href="$class_s_d_l___base.html#abea0135b27f9c3f86b71569775e0474e" title="SDL_Base::OnExecute" alt="" coords="379,5,536,35"/>
+<area shape="rect" id="node9" href="$class_s_d_l___base.html#a377dba6e661d4e1051028943c0929635" title="OnKeyDown: handles the event of a key being pressed." alt="" coords="375,59,540,88"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="589,5,640,35"/>
+</map>

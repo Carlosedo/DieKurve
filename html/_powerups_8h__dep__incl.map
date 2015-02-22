@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_world_8h.html" title="World.h" alt="" coords="505,83,572,112"/>
+<area shape="rect" id="node21" href="$_powerups_8cpp.html" title="Powerups.cpp" alt="" coords="596,83,700,112"/>
+<area shape="rect" id="node5" href="$_collisions_8cpp.html" title="Collisions.cpp" alt="" coords="5,160,109,189"/>
+<area shape="rect" id="node7" href="$main_8cpp.html" title="main.cpp" alt="" coords="133,160,208,189"/>
+<area shape="rect" id="node9" href="$_s_d_l___on_cleanup_8cpp.html" title="SDL_OnCleanup.cpp" alt="" coords="232,160,376,189"/>
+<area shape="rect" id="node11" href="$_s_d_l___on_event_8cpp.html" title="SDL_OnEvent.cpp" alt="" coords="400,160,531,189"/>
+<area shape="rect" id="node13" href="$_s_d_l___on_init_8cpp.html" title="SDL_OnInit.cpp" alt="" coords="555,160,669,189"/>
+<area shape="rect" id="node15" href="$_s_d_l___on_loop_8cpp.html" title="SDL_OnLoop.cpp" alt="" coords="693,160,819,189"/>
+<area shape="rect" id="node17" href="$_s_d_l___on_render_8cpp.html" title="SDL_OnRender.cpp" alt="" coords="843,160,981,189"/>
+<area shape="rect" id="node19" href="$_world_8cpp.html" title="World.cpp" alt="" coords="1005,160,1085,189"/>
+</map>

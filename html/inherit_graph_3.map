@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_powerups.html" title="Powerups" alt="" coords="5,85,85,115"/>
+<area shape="rect" id="node3" href="$class_sprint.html" title="Sprint" alt="" coords="153,5,209,35"/>
+<area shape="rect" id="node5" href="$class_tron.html" title="Tron" alt="" coords="157,59,205,88"/>
+<area shape="rect" id="node7" href="$class_vanish_walls.html" title="VanishWalls" alt="" coords="135,112,228,141"/>
+<area shape="rect" id="node9" href="$class_worm.html" title="Worm" alt="" coords="153,165,209,195"/>
+</map>

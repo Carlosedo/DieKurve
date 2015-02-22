@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_player.html#a39bc1e0bc6211b527e69fdf153348429" title="Player::collisions" alt="" coords="175,5,295,35"/>
+<area shape="rect" id="node5" href="$class_player.html#ad745d25801b142420450790bf4548b48" title="OnMove: moves the player and calls the function to check for collisions." alt="" coords="345,5,460,35"/>
+<area shape="rect" id="node7" href="$class_s_d_l___base.html#a8190cf29a54404441e2e740b9ceeb2e1" title="OnLoop: calls the functions and takes the actions of every loop of the game: fps, movement..." alt="" coords="509,5,648,35"/>
+<area shape="rect" id="node9" href="$class_s_d_l___base.html#abea0135b27f9c3f86b71569775e0474e" title="SDL_Base::OnExecute" alt="" coords="697,5,855,35"/>
+<area shape="rect" id="node11" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="904,5,955,35"/>
+</map>

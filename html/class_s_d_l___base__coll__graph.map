@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_c_event.html" title="{CEvent\n||+ CEvent()\l+ ~CEvent()\l+ OnEvent()\l+ OnInputFocus()\l+ OnInputBlur()\l+ OnKeyDown()\l+ OnKeyUp()\l+ OnMouseFocus()\l+ OnMouseBlur()\l+ OnMouseMove()\land 17 more...}" alt="" coords="5,84,139,343"/>
+<area shape="rect" id="node4" href="$class_player.html" title="{Player\n|+ name\l+ active\l+ n\l+ score\l+ alive\l+ Point\l+ textColor\l|+ Player()\l+ ResetPlayer()\l+ ResetScore()\l+ OnLoad()\l+ OnDraw()\l+ OnMove()\l+ CheckWalls()\l+ operator==()\l+ collisions()\l+ killPlayer()\l+ setSpeed()\l+ setTron()\l+ setWorm()\l+ setNoWalls()\l}" alt="" coords="163,6,277,421"/>
+</map>

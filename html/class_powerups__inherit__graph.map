@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_sprint.html" title="{Sprint\n||+ Sprint()\l+ Picked()\l}" alt="" coords="5,243,88,346"/>
+<area shape="rect" id="node5" href="$class_tron.html" title="{Tron\n||+ Tron()\l+ Picked()\l}" alt="" coords="112,243,195,346"/>
+<area shape="rect" id="node7" href="$class_vanish_walls.html" title="{VanishWalls\n||+ VanishWalls()\l+ Picked()\l}" alt="" coords="219,243,333,346"/>
+<area shape="rect" id="node9" href="$class_worm.html" title="{Worm\n||+ Worm()\l+ Picked()\l}" alt="" coords="357,243,440,346"/>
+</map>

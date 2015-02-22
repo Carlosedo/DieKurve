@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_world.html#a7a520cd509ef956967be998f1e4da4cc" title="addToPathMap: adds the player&#39;s coordinates to the pathmap and checks if a player passed over them..." alt="" coords="176,5,328,35"/>
+<area shape="rect" id="node7" href="$class_player.html#a36c6183aed3ce0ccd97ba7ab770f22c2" title="CheckWalls: checks for a collision with the walls." alt="" coords="183,59,321,88"/>
+<area shape="rect" id="node9" href="$class_world.html#ab43f695557482201a33232bd2daa341e" title="riseScore: increases the alive players&#39; score when a player dies and decreases the alive count..." alt="" coords="193,112,311,141"/>
+<area shape="rect" id="node5" href="$class_player.html#aaea13cbf808d956ab07533a9c731c4b7" title="killPlayer: sets the alive variable to false." alt="" coords="376,5,496,35"/>
+</map>

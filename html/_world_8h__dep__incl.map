@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_collisions_8cpp.html" title="Collisions.cpp" alt="" coords="5,83,109,112"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="main.cpp" alt="" coords="133,83,208,112"/>
+<area shape="rect" id="node7" href="$_s_d_l___on_cleanup_8cpp.html" title="SDL_OnCleanup.cpp" alt="" coords="232,83,376,112"/>
+<area shape="rect" id="node9" href="$_s_d_l___on_event_8cpp.html" title="SDL_OnEvent.cpp" alt="" coords="400,83,531,112"/>
+<area shape="rect" id="node11" href="$_s_d_l___on_init_8cpp.html" title="SDL_OnInit.cpp" alt="" coords="555,83,669,112"/>
+<area shape="rect" id="node13" href="$_s_d_l___on_loop_8cpp.html" title="SDL_OnLoop.cpp" alt="" coords="693,83,819,112"/>
+<area shape="rect" id="node15" href="$_s_d_l___on_render_8cpp.html" title="SDL_OnRender.cpp" alt="" coords="843,83,981,112"/>
+<area shape="rect" id="node17" href="$_world_8cpp.html" title="World.cpp" alt="" coords="1005,83,1085,112"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_f_p_s.html#acfd11dfd1bf51f4ce730414d8658c2c8" title="FPS::OnLoop" alt="" coords="200,5,301,35"/>
+<area shape="rect" id="node5" href="$class_player.html#ad745d25801b142420450790bf4548b48" title="OnMove: moves the player and calls the function to check for collisions." alt="" coords="193,59,308,88"/>
+<area shape="rect" id="node7" href="$class_f_p_s.html#ab1588edfbc51a46ad459b3884d744fe5" title="FPS::GetSpeedFactor" alt="" coords="359,32,508,61"/>
+<area shape="rect" id="node9" href="$class_player.html#a39bc1e0bc6211b527e69fdf153348429" title="Player::collisions" alt="" coords="373,85,493,115"/>
+<area shape="rect" id="node11" href="$class_world.html#a7a520cd509ef956967be998f1e4da4cc" title="addToPathMap: adds the player&#39;s coordinates to the pathmap and checks if a player passed over them..." alt="" coords="557,32,709,61"/>
+<area shape="rect" id="node15" href="$class_player.html#a36c6183aed3ce0ccd97ba7ab770f22c2" title="CheckWalls: checks for a collision with the walls." alt="" coords="564,85,703,115"/>
+<area shape="rect" id="node17" href="$class_world.html#ab43f695557482201a33232bd2daa341e" title="riseScore: increases the alive players&#39; score when a player dies and decreases the alive count..." alt="" coords="575,139,692,168"/>
+<area shape="rect" id="node13" href="$class_player.html#aaea13cbf808d956ab07533a9c731c4b7" title="killPlayer: sets the alive variable to false." alt="" coords="757,32,877,61"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_s_d_l___base.html#af7bb1e06cf4f351356e48c73537d54cc" title="OnInit: initialices the game, surfaces and powerups. Also handles the game loading." alt="" coords="231,5,359,35"/>
+<area shape="rect" id="node7" href="$class_world.html#ace4d2862cf9c1768a81a61cfe8294dfb" title="cleanPathMap: resets the pathmap." alt="" coords="221,59,368,88"/>
+<area shape="rect" id="node9" href="$class_player.html#abb3f4c0cade55d3d63e13a29f598c267" title="ResetPlayer: Resets some of the player attributes for every new round." alt="" coords="225,112,364,141"/>
+<area shape="rect" id="node11" href="$class_player.html#a47b9336f1d64a97e3adeea62fe2d74b5" title="ResetScore: Resets the score for a new game." alt="" coords="227,165,363,195"/>
+<area shape="rect" id="node5" href="$class_powerups.html#a12fc5a4e945c40392eccf93716ed9097" title="OnCreate: loads and draws a powerup in the destination surface." alt="" coords="416,5,560,35"/>
+</map>
